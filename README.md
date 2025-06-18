@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://brenda-magg.github.io/dev-testimonial-page/">
       Solution
     </a>
     <span> | </span>
@@ -48,4 +48,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- GitHub [@your-username](https://github.com/brenda-magg)
+- GitHub [@brenda-magg](https://github.com/brenda-magg)
